@@ -20,6 +20,7 @@ Detailed documentation available at [https://nathanenglehart.github.io/chi-squar
 
 ## References
 
+American National Election Studies. (2016). 2016 American National Election Study Pilot [Data File]. Retrieved from https://electionstudies.org/data-center/anes-2016-pilot-study/.
+
 Miller, Melissa. (2021, June). Chi-squared Test [Lecture]. Bowling Green State University: POLS 2900, Bowling Green, OH, United States.
 
-American National Election Studies. (2016). 2016 American National Election Study Pilot [Data File]. Retrieved from https://electionstudies.org/data-center/anes-2016-pilot-study/.
